@@ -263,3 +263,4 @@ paket-files/
 __pycache__/
 *.pyc
 datingapp.db
+bin/Debug/netcoreapp3.1/appsettings.json
